@@ -18,5 +18,5 @@ The source is still under the MIT license, as the original was.
 Credits:
 --------
 
-* Ben Rosser <rosser.bjr@gmail.com>
+* Ben Rosser <rosser.bjr@gmail.com>: Author of fork
 * Sebastian Wiesner <swiesner@lunaryorn.com>: Original Author
